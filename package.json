@@ -10,10 +10,13 @@
   "homepage": "https://github.com/orbixtartechnologies/firebase-deeplink",
   "repository": {
     "type": "git",
-    "url": "git://github.com/orbixtartechnologies/firebase-deeplink.git"
+    "url": "https://github.com/orbixtartechnologies/firebase-deeplink.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/usmanliaqatdeveloper/firebase-deeplinks/issues"
+    "url": "https://github.com/orbixtartechnologies/firebase-deeplink/issues"
   },
   "license": "MIT",
   "dependencies": {
