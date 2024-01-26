@@ -1,0 +1,38 @@
+{
+  "name": "firebase-deeplink",
+  "version": "1.0.0",
+  "description": "Easily create an endpoint in firebase cloud function that redirects deep links to mobile apps",
+  "main": "lib/deeplink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orbixtar Technologies <admin@orbixtartechnologies.com> (https://orbixtartechnologies.com/)",
+  "homepage": "https://github.com/orbixtartechnologies/firebase-deeplink",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orbixtartechnologies/firebase-deeplink.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "bugs": {
+    "url": "https://github.com/usmanliaqatdeveloper/firebase-deeplinks/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "html-inline": "^1.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^7.2.0",
+    "prettier": "^2.0.5",
+    "zombie": "^6.1.4"
+  },
+  "keywords": [
+    "deep-link",
+    "deeplink",
+    "express",
+    "mobile"
+  ]
+}
