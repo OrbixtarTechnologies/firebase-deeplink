@@ -1,6 +1,6 @@
 {
   "name": "firebase-deeplink",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Easily create an endpoint in firebase cloud function that redirects deep links to mobile apps",
   "main": "lib/deeplink.js",
   "scripts": {
